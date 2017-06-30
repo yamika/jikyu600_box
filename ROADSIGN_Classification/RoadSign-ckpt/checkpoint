@@ -1,0 +1,2 @@
+model_checkpoint_path: "roadsign-conv"
+all_model_checkpoint_paths: "roadsign-conv"
