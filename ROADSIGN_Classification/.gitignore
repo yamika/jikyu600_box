@@ -1,4 +1,4 @@
 train_dataset
 test_dataset
 load_dataset.pyc
-./.ipynb_checkpoints/*
+.ipynb_checkpoints
