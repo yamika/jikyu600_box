@@ -2,3 +2,9 @@ train_dataset
 test_dataset
 load_dataset.pyc
 .ipynb_checkpoints
+load_dataset_VGG16.pyc
+test_dataset_VGG16
+train_dataset_VGG16
+RoadSign-vgg-ckpt
+RoadSign-Alex-ckpt
+.DS_Store
