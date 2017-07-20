@@ -14,8 +14,12 @@ def _load_label(file_dir):
         l = file.split('-')[0]
         if(l == 'Stop'):
             labels.append(0)
-        elif(l == 'LimitSpeed'):
+        elif(l == 'LimitSpeed10'):
             labels.append(1)
+        elif(l == 'LimitSpeed20'):
+            labels.append(2)
+        elif(l == 'LimitSpeed30'):
+            labels.append(3)
             
     print("Load label : Done!")
     
